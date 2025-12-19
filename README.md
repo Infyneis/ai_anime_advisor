@@ -111,7 +111,7 @@ An interactive **AI-powered anime recommendation** application that learns your 
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                   Next.js Frontend                           │
+│                   Next.js Frontend                          │
 │  ┌──────────────┐  ┌───────────────┐  ┌──────────────────┐  │
 │  │ Keyword      │  │ Anime Cards   │  │ Anime Detail     │  │
 │  │ Selection    │  │ (3 results)   │  │ Drawer           │  │
@@ -121,7 +121,7 @@ An interactive **AI-powered anime recommendation** application that learns your 
                         HTTP Requests
                               │
 ┌─────────────────────────────────────────────────────────────┐
-│                   FastAPI Backend                            │
+│                   FastAPI Backend                           │
 │  ┌──────────────┐  ┌───────────────┐  ┌──────────────────┐  │
 │  │ POST         │  │ POST          │  │ GET              │  │
 │  │ /suggest     │  │ /recommend    │  │ /anime/{id}      │  │
@@ -201,8 +201,8 @@ This script automatically:
 1. ✅ Checks for Docker, Ollama, and pnpm
 2. 🦙 Pulls llama3.2 model if needed
 3. 📦 Installs all dependencies
-4. 🚀 Starts backend on **http://localhost:8000**
-5. 🎨 Starts frontend on **http://localhost:3000**
+4. 🚀 Starts backend on **<http://localhost:8000>**
+5. 🎨 Starts frontend on **<http://localhost:3000>**
 6. 🌐 Opens your browser
 
 ---
