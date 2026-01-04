@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">AI Anime Advisor</h1>
-<h3 align="center">Discover your next favorite anime with AI-powered recommendations <code>#8/365 - Year Coding Challenge</code></h3>
+<h3 align="center">Discover your next favorite anime with AI-powered recommendations</h3>
 
 <p align="center">
   <em>Interactive keyword selection powered by Ollama and enriched with MyAnimeList data</em>
@@ -34,7 +34,6 @@
 An interactive **AI-powered anime recommendation** application that learns your preferences through progressive keyword selection. Select genres, themes, and moods, and let the AI narrow down the perfect anime for you. Features a beautiful anime-inspired UI with sakura petal animations and glassmorphism effects.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Year_Coding_Challenge-Project_%238-FF6B9D?style=for-the-badge" alt="Year Coding Challenge" />
   <img src="https://img.shields.io/badge/📅_Completed-December_19,_2024-C084FC?style=for-the-badge" alt="Completed" />
   <img src="https://img.shields.io/badge/🎨_Theme-Anime_Pink-FF6B9D?style=for-the-badge" alt="Theme" />
 </p>
